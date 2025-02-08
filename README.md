@@ -12,7 +12,7 @@ cargo build --release
 
 If you want to get the binary into your system:
 ```bash
-cp target/release/image-to-webp-converter /usr/local/bin
+cp target/release/image-webp-converter /usr/local/bin
 ```
 
 ## Usage
